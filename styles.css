@@ -14,7 +14,7 @@ body {
 	}
 
 nav li { 
-	border: 2px solid black; 
+	border: 2px darkblue; 
 	display: inline-block;
 	padding: 10px;
 	margin: 10px;
