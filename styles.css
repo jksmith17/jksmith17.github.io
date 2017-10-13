@@ -17,8 +17,9 @@ nav li {
 	border: 2px solid black; 
 	display: inline-block;
 	padding: 10px;
-	margin: 50px;
+	margin: 10px;
 	background: lightpink;
+	width: 100px;
 	}
 	
 a { color: hotpink;
